@@ -1,0 +1,23 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 128 128" role="img" aria-labelledby="title desc">
+  <title id="title">FP monogram icon</title>
+  <desc id="desc">Cream circular favicon with FP initials</desc>
+  <defs>
+    <linearGradient id="ring" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#f1c754" />
+      <stop offset="100%" stop-color="#eb8536" />
+    </linearGradient>
+  </defs>
+  <circle cx="64" cy="64" r="58" fill="#fef8e8" stroke="url(#ring)" stroke-width="6" />
+  <text
+    x="64"
+    y="76"
+    text-anchor="middle"
+    font-family="-apple-system, BlinkMacSystemFont, Segoe UI, Arial, sans-serif"
+    font-size="50"
+    font-weight="800"
+    letter-spacing="1"
+    fill="#17130f"
+  >
+    FP
+  </text>
+</svg>

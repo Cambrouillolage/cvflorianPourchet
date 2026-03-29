@@ -19,6 +19,10 @@ export const metadata: Metadata = {
   title: "Florian — AI Builder",
   description:
     "Je conçois et déploie des produits IA opérationnels — de l'automatisation au RAG, du prototype à la mise en production.",
+  icons: {
+    icon: [{ url: "/icon.svg", type: "image/svg+xml" }],
+    shortcut: ["/icon.svg"],
+  },
   openGraph: {
     title: "Florian — AI Builder",
     description:
